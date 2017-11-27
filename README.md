@@ -1,2 +1,2 @@
-# Assigments of cs231n
-
+# Assignments of cs231n
+Spring 2017 Assignments
